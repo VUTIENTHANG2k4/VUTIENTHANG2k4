@@ -1,7 +1,7 @@
 # Hi 👋, I'm Thăng
 
 🎓 Information Technology Student  
-🤖 AI/ML & Software engineer 
+🤖 AI/ML & Software engineer  
 🚀 Building AI-powered applications
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Software+AI+Engineer;LLM+%7C+RAG+%7C+Agent+%7C+Computer+Vision;Always+Learning+New+Things)](https://git.io/typing-svg)
